@@ -2,7 +2,7 @@
 // L’utente inserisce due numeri in successione, con due prompt.
 // Il software stampa il maggiore.
 
-// Definizione Variabili 
+// Definizione Variabili inserite dall'utente
 const numberOne = prompt("Inserisci un numero");
 const numberTwo = prompt("Inserisci un numero");
 
